@@ -1,0 +1,4 @@
+commit existed but unpushed:
+git commit --amend
+git commit --amend -m "New commit message"
+git push <remote> <branch> -f
